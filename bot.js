@@ -2970,7 +2970,7 @@ client.on("guildMemberAdd", member => {
 
 client.on('ready', function(){
     var ms = 10000 ;
-    var setGame = [' !!help ','Logic™ | Server ' ];
+    var setGame = [' !!help ','Distime | Server ' ];
     var i = -1;
     var j = 0;
     setInterval(function (){
